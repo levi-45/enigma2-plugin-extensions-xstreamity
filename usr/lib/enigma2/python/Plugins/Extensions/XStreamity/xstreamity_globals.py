@@ -1,0 +1,13 @@
+currentPlayingServiceRef = None
+currentPlayingServiceRefString = ""
+newPlayingServiceRef = None
+newPlayingServiceRefString = ""
+current_selection = 0
+current_playlist = []
+currentchannelist = None
+currentchannelistindex = 0
+nextlist = []
+changed = False
+originalChannelList = []
+catchupdata = []
+currentDownloadTotalBytes = 0
